@@ -1,0 +1,101 @@
+{
+  "transactions": [
+    {
+      "date": "2025-11-10",
+      "type": "expense",
+      "category": "Travel",
+      "amount": 10000,
+      "notes": "",
+      "id": "t-bf754bda-7a54-40b0-9418-6a35624068e7",
+      "userId": "ckm@gmail.com"
+    },
+    {
+      "date": "2025-11-11",
+      "type": "income",
+      "category": "Freelance",
+      "amount": 10000,
+      "notes": "",
+      "id": "t-4c549032-ff69-4f56-b2fa-0f3ebb1b7b06",
+      "userId": "ckm@gmail.com"
+    },
+    {
+      "date": "2025-11-21",
+      "type": "expense",
+      "category": "Food",
+      "amount": 10000,
+      "notes": "",
+      "id": "t-ddea8bfc-b2df-4bec-9d4b-edebc2759f8e",
+      "userId": "ckm@gmail.com"
+    },
+    {
+      "date": "2025-12-01",
+      "type": "income",
+      "category": "Salary",
+      "amount": 100000,
+      "notes": "",
+      "id": "t-ae3178f3-3d7d-4314-b500-43b93348fa4d",
+      "userId": "dimple231105@gmil.com"
+    },
+    {
+      "date": "2025-12-04",
+      "type": "expense",
+      "category": "Rent",
+      "amount": 10000,
+      "notes": "",
+      "id": "t-08c013ee-d95b-4842-9d12-1ae36288992b",
+      "userId": "dimple231105@gmil.com"
+    },
+    {
+      "date": "2025-11-28",
+      "type": "expense",
+      "category": "Food",
+      "amount": 5000,
+      "notes": "",
+      "id": "t-f53f1a25-6acd-4661-b7dd-04e359a95007",
+      "userId": "dimple231105@gmil.com"
+    },
+    {
+      "date": "2025-11-26",
+      "type": "income",
+      "category": "Investments",
+      "amount": 50000,
+      "notes": "",
+      "id": "t-5dbb4ae4-79a3-44f5-83c7-b22fc97b0b2c",
+      "userId": "dimple231105@gmil.com"
+    }
+  ],
+  "budgets": [
+    {
+      "category": "Food",
+      "limit": 6000,
+      "userId": "ckm@gmail.com",
+      "id": "b-b1fe8a2e-743c-4383-be2c-e13f12a41377"
+    }
+  ],
+  "users": [
+    {
+      "name": "ck",
+      "email": "ckm@gmail.com",
+      "password": "neelima13",
+      "id": 1
+    },
+    {
+      "name": "ck",
+      "email": "chinnikrishnamakineni@gmail.com",
+      "password": "neelima13",
+      "id": 2
+    },
+    {
+      "name": "Dimple",
+      "email": "dimple@gmail.com",
+      "password": "Dimple kumar",
+      "id": 3
+    },
+    {
+      "name": "Dimple",
+      "email": "dimple231105@gmil.com",
+      "password": "Dimple kumar",
+      "id": 4
+    }
+  ]
+}
